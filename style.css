@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 255, 170);
+   }
+
+
+.main {
+   align-items: center; 
+   text-align: center;
+   font-family: monospace;
+}
+
+select{
+    border-radius: 200px;
+    color: rgb(94, 255, 0);
+    background-color: black;
+   border-style: solid;
+    border-color: black;
+}
+
+button{
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(0, 24, 0);
+    letter-spacing: 50px;
+    text-decoration: line-through;
+    position: relative;
+    top: 50px;
+    box-shadow: 0px 5px 6px rgb(132, 255, 101);
+    
+}
+
